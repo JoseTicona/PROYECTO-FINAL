@@ -1,0 +1,8 @@
+Paracetamol;Paracetamol;Alivia todo tipo de dolor;4.00
+001;Paracetamol;Para aliviar el dolor;4.00
+002;Pastilla del Dia siguiente;Anticonceptivo de emergencia;20.00
+003;Ramipiril;Alivia la Hipertension ;8.00
+004;Simbastatina;Controla el colesterol ;7.00
+004 ;JOSE TICONA;AAA;AS
+;;;
+005;amoxicilina;dolor dew cabeza;8,00
